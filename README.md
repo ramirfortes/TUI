@@ -49,4 +49,4 @@ Este repositorio irá creciendo con nuevas herramientas TUI orientadas a adminis
 
 ## Licencia
 
-MIT
+Apache 2.0 — ver [LICENSE](./LICENSE)
